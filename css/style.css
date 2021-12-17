@@ -6,6 +6,8 @@ header {
   color: rgb(27, 33, 117);
   display: flex;
   padding-left: 10px;
+  justify-content: center;
+  align-items: center;
 }
 
 img {
@@ -48,4 +50,5 @@ ul {
 
 body {
   width: 100%;
+  margin: 0;
 }
